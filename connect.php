@@ -5,10 +5,10 @@ if(!defined('INCLUDE_CHECK')) die('You are not allowed to execute this file dire
 
 /* Database config */
 
-$db_host		= 'localhost';
-$db_user		= 'root';
-$db_pass		= 'usbw';
-$db_database	= 'apbdb'; 
+$db_host		= '78.47.10.6';
+$db_user		= 'aneko';
+$db_pass		= 'APB_Developer_911';
+$db_database	= 'SC_TabsBetting'; 
 
 /* End config */
 
